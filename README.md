@@ -4,6 +4,7 @@
 * GMP: https://gmplib.org/
 * NTL: https://www.shoup.net/ntl
 
+
 # Runnig a Test
 
 * First, clone the above libraries, and the U-PSI file. 
@@ -31,3 +32,8 @@
   * number of polynomials (denoted as `number_of_poly`)
   * degree of polynoials (denoted as `degree_pi`)
   * number of experiments (denoted as `number_of_experiments`)
+ 
+
+# Difference between `main-UP.cpp` and `main-UP-wRR.cpp`
+
+The library `main-UP.cpp` uses the unforgeable polynoimals where the verification is based on polynomial factoriztion, whereas `main-UP-wRR.cpp` implements the unforgeable polynoimals with a random root whose verification is more efficient and is based on polynoimal evalaation. 
