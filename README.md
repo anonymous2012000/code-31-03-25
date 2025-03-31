@@ -5,7 +5,7 @@
 * NTL: https://www.shoup.net/ntl
 
 
-# Runnig a Test
+# Using the library
 
 * First, clone the above libraries, and the U-PSI file. 
 * Second, install the libraries and unzip the file. 
