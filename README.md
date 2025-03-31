@@ -29,5 +29,5 @@
 
   * field size, i.e., 64 or 128
   * number of polynomials (denoted as number_of_poly)
-  * degree of polynoials (denoted as 'degree_pi')
+  * degree of polynoials (denoted as "degree_pi")
   * number of experiments (denoted as number_of_experiments)
