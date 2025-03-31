@@ -23,3 +23,11 @@
   with
 
        g++ -std=c++11 main-UP-wRR.cpp  -o test  -lntl -lgmpxx -lgmp
+
+
+  The libraries (i.e., main-UP.cpp and main-UP-wRR.cpp) provides you with the options to select different:
+
+  * field size, i.e., 64 or 128
+  * number of polynomials (denoted as number_of_poly)
+  * degree of polynoials (denoted as 'degree_pi')
+  * number of experiments (denoted as number_of_experiments)
