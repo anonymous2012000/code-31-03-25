@@ -33,6 +33,7 @@
   * degree of polynoials (denoted as `degree_pi`)
   * number of experiments (denoted as `number_of_experiments`)
  
+Currently, the coefficnets of polynomial ```latex \pi``` are selected uniformly at random.  
 
 # Difference between `main-UP.cpp` and `main-UP-wRR.cpp`
 
