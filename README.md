@@ -7,7 +7,7 @@
 
 # Using the library
 
-* First, clone the above libraries, and the U-PSI file. 
+* First, clone the above libraries. 
 * Second, install the libraries and unzip the file. 
 * Third, run the following command lines in order:
 
